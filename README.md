@@ -44,7 +44,7 @@ adobe_hack_1a/
 ├── input/                 # Folder containing input PDF files
 ├── output/                # Folder containing generated output JSONs
 └── README.md              # Documentation explaining your approach
-
+```bash
 
 # How to Build and Run-
 Ensure Docker is installed and running.
