@@ -53,12 +53,14 @@ Ensure Docker is installed and running.
 docker build -t pdf-outline-extractor .
 
 # Run the Container-
+```bash
 docker run --rm -v "${PWD}/input:/app/input" -v "${PWD}/output:/app/output" --network none pdf-outline-extractor
-
+```
 -All PDF files in the input folder will be processed.
 -For each PDF, a corresponding .json file will be saved in the output folder.
 
 # Example Output-
+```bash
 {
   "title": "Adobe Marketing Guide 2025",
   "outline": [
@@ -67,6 +69,7 @@ docker run --rm -v "${PWD}/input:/app/input" -v "${PWD}/output:/app/output" --ne
     { "level": "H3", "text": "Social Media Results", "page": 3 }
   ]
 }
+```
 
 # Key Highlights-
 🔹 Works offline — no internet or APIs needed.
