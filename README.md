@@ -47,10 +47,14 @@ adobe_hack_1a/
 ```
 
 # How to Build and Run-
+```bash
 Ensure Docker is installed and running.
+```
 
 # Build Docker Image-
-docker build -t pdf-outline-extractor .
+```bash
+docker build -t pdf-outline-extractor.
+```
 
 # Run the Container-
 ```bash
