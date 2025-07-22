@@ -1,7 +1,7 @@
 # Round 1a – PDF Outline Extraction
 
 # Overview-
-This solution is built for Adobe Hackathon 2025 Round 1A. The task is to extract structured document outlines from PDFs — including title, hierarchical headings (H1, H2, H3), and associated page numbers — and return the result in a well-formatted JSON.
+This solution is built for Adobe Hackathon 2025 Round 1a. The task is to extract structured document outlines from PDFs — including title, hierarchical headings (H1, H2, H3), and associated page numbers — and return the result in a well-formatted JSON.
 
 # Our Approach-
 We adopted a fast, rule-based logic using text position and font size analysis to approximate structure, while avoiding the need for large ML models. Here's the step-by-step pipeline:
@@ -21,7 +21,7 @@ We adopted a fast, rule-based logic using text position and font size analysis t
      - `"title"`: string
      - `"outline"`: list of heading objects (level, text, page)
 
-# 4. Bonus Feature: Language Support
+# 4. Language Support
    - We integrated langdetect to support non-English PDFs.
    - The font-size-based logic works across languages without change.
 
@@ -47,9 +47,7 @@ adobe_hack_1a/
 ```
 
 # How to Build and Run-
-```bash
 Ensure Docker is installed and running.
-```
 
 # Build Docker Image-
 ```bash
