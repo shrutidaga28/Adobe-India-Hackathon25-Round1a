@@ -36,14 +36,12 @@ We adopted a fast, rule-based logic using text position and font size analysis t
 
 # Folder Structure-
 adobe_hack_1a/
-├── Dockerfile
-├── extract_outline.py
-├── requirements.txt
-├── input/
-│ └── sample.pdf
-├── output/
-│ └── sample.json
-└── README.md
+├── Dockerfile             # Docker container configuration
+├── extract_outline.py     # Main script to extract outline from PDFs
+├── requirements.txt       # Python dependencies
+├── input/                 # Folder containing input PDF files
+├── output/                # Folder containing generated output JSONs
+└── README.md              # Documentation explaining your approach
 
 # How to Build and Run-
 Ensure Docker is installed and running.
