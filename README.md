@@ -1,9 +1,9 @@
 # Round 1a – PDF Outline Extraction
 
-# Overview-
+# Overview
 This solution is built for Adobe Hackathon 2025 Round 1a. The task is to extract structured document outlines from PDFs — including title, hierarchical headings (H1, H2, H3), and associated page numbers — and return the result in a well-formatted JSON.
 
-# Our Approach-
+# Our Approach
 We adopted a fast, rule-based logic using text position and font size analysis to approximate structure, while avoiding the need for large ML models. Here's the step-by-step pipeline:
 
 # 1. Title Extraction
@@ -25,7 +25,7 @@ We adopted a fast, rule-based logic using text position and font size analysis t
    - We integrated langdetect to support non-English PDFs.
    - The font-size-based logic works across languages without change.
 
-# Libraries & Tools Used-
+# Libraries & Tools Used
 
 | Tool/Library      | Purpose                           |
 |------------------|------------------------------------|
@@ -46,22 +46,22 @@ adobe_hack_1a/
 └── README.md              # Documentation explaining your approach
 ```
 
-# How to Build and Run-
+# How to Build and Run
 Ensure Docker is installed and running.
 
-# Build Docker Image-
+# Build Docker Image
 ```bash
 docker build -t pdf-outline-extractor.
 ```
 
-# Run the Container-
+# Run the Container
 ```bash
 docker run --rm -v "${PWD}/input:/app/input" -v "${PWD}/output:/app/output" --network none pdf-outline-extractor
 ```
 🔹 All PDF files in the input folder will be processed.  
 🔹 For each PDF, a corresponding `.json` file will be saved in the output folder.
 
-# Example Output-
+# Example Output
 ```bash
 {
   "title": "Adobe Marketing Guide 2025",
@@ -73,7 +73,7 @@ docker run --rm -v "${PWD}/input:/app/input" -v "${PWD}/output:/app/output" --ne
 }
 ```
 
-# Key Highlights-
+# Key Highlights
 🔹 Works offline — no internet or APIs needed.
 
 🔹 Handles multilingual PDFs.
