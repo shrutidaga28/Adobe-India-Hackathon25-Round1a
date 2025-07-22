@@ -34,7 +34,9 @@ We adopted a fast, rule-based logic using text position and font size analysis t
 | collections.Counter | Font frequency analysis         |
 | Docker            | Containerization                  |
 
-# Folder Structure-
+# Folder Structure – Round 1A
+
+```bash
 adobe_hack_1a/
 ├── Dockerfile             # Docker container configuration
 ├── extract_outline.py     # Main script to extract outline from PDFs
@@ -42,6 +44,7 @@ adobe_hack_1a/
 ├── input/                 # Folder containing input PDF files
 ├── output/                # Folder containing generated output JSONs
 └── README.md              # Documentation explaining your approach
+
 
 # How to Build and Run-
 Ensure Docker is installed and running.
