@@ -6,16 +6,16 @@ This solution is built for Adobe Hackathon 2025 Round 1a. The task is to extract
 # Our Approach-
 We adopted a fast, rule-based logic using text position and font size analysis to approximate structure, while avoiding the need for large ML models. Here's the step-by-step pipeline:
 
-# 1. Title Extraction:
+# 1. Title Extraction
    - The first page is scanned.
    - The longest text span with the largest font size is treated as the title.
 
-# 2. Heading Level Detection:
+# 2. Heading Level Detection
    - Font sizes are collected across all text spans.
    - The top 3 most frequent large font sizes are mapped to H1, H2, and H3.
    - Any text using these sizes is classified as a heading.
 
-# 3. Outline Construction:
+# 3. Outline Construction
    - Headings are saved with their level, text, and page number.
    - The result is structured as:
      - `"title"`: string
