@@ -1,0 +1,1571 @@
+{
+  "title": "Sample PDF Document",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Robert Maron",
+      "page": 1,
+      "language": "de"
+    },
+    {
+      "level": "H2",
+      "text": "Grzegorz Grudzi ́nski",
+      "page": 1,
+      "language": "pl"
+    },
+    {
+      "level": "H2",
+      "text": "February 20, 1999",
+      "page": 1,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Template",
+      "page": 3,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "How to compile a",
+      "page": 3,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".tex",
+      "page": 3,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "file to a",
+      "page": 3,
+      "language": "it"
+    },
+    {
+      "level": "H3",
+      "text": ".pdf",
+      "page": 3,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": "file",
+      "page": 3,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.1.1",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "Tools",
+      "page": 3,
+      "language": "et"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.1.2",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "How to use the tools",
+      "page": 3,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "How to write a document",
+      "page": 3,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.2.1",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "The main document",
+      "page": 3,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.2.2",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "Chapters",
+      "page": 3,
+      "language": "nl"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.2.3",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "Spell-checking",
+      "page": 3,
+      "language": "de"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "TEX and pdfL",
+      "page": 3,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "TEX capabilities",
+      "page": 3,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.3.1",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 3,
+      "language": "af"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.3.2",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.3.3",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "pdfL",
+      "page": 3,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.3.4",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "Examples",
+      "page": 3,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "page": 3,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "CONTENTS",
+      "page": 4,
+      "language": "en"
+    },
+    {
+      "level": "H1",
+      "text": "How to compile a",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H1",
+      "text": ".tex",
+      "page": 5,
+      "language": "ca"
+    },
+    {
+      "level": "H1",
+      "text": "file to a",
+      "page": 5,
+      "language": "it"
+    },
+    {
+      "level": "H1",
+      "text": ".pdf",
+      "page": 5,
+      "language": "cy"
+    },
+    {
+      "level": "H1",
+      "text": "file",
+      "page": 5,
+      "language": "ro"
+    },
+    {
+      "level": "H2",
+      "text": "1.1.1",
+      "page": 5,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Tools",
+      "page": 5,
+      "language": "et"
+    },
+    {
+      "level": "H3",
+      "text": "To process the files you (may) need:",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "pdflatex",
+      "page": 5,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "(for example from",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "tetex",
+      "page": 5,
+      "language": "sq"
+    },
+    {
+      "level": "H3",
+      "text": "package",
+      "page": 5,
+      "language": "pl"
+    },
+    {
+      "level": "H3",
+      "text": "0.9-6",
+      "page": 5,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ", which you can",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "get from",
+      "page": 5,
+      "language": "da"
+    },
+    {
+      "level": "H3",
+      "text": "Red Hat 5.2",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "acroread",
+      "page": 5,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "(a PDF viewer, available from",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "http://www.adobe.com/",
+      "page": 5,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "ghostscript",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "5.10",
+      "page": 5,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "(for example from",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Red Hat Contrib",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ") and",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "ghostview",
+      "page": 5,
+      "language": "af"
+    },
+    {
+      "level": "H3",
+      "text": "(from RedHat Linux);",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "efax",
+      "page": 5,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": "package could be useful, if you plan to fax documents.",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H2",
+      "text": "1.1.2",
+      "page": 5,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "How to use the tools",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Follow these steps:",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "1. put all source",
+      "page": 5,
+      "language": "fr"
+    },
+    {
+      "level": "H3",
+      "text": ".tex",
+      "page": 5,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "files in one directory, then chdir to the directory (or put",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "some of them in the L",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "TEXsearch path — if you know how to do this);",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "2. run “",
+      "page": 5,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "pdflatex file.tex",
+      "page": 5,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "” on the main file of the document three times",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "(three — to prepare valid table of contents);",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "3. to see or print the result use",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "acroread",
+      "page": 5,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "(unfortunately some versions of",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "acroread",
+      "page": 5,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "may produce PostScript which is too complex), or",
+      "page": 5,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 1. TEMPLATE",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "4. run",
+      "page": 6,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "ghostscript",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "gv file.pdf",
+      "page": 6,
+      "language": "no"
+    },
+    {
+      "level": "H3",
+      "text": "” to display or:",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H1",
+      "text": "How to write a document",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H2",
+      "text": "1.2.1",
+      "page": 6,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "The main document",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Choose the name of the document, say",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "document",
+      "page": 6,
+      "language": "pt"
+    },
+    {
+      "level": "H3",
+      "text": ". Copy",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "template.tex",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "document.tex",
+      "page": 6,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": ", then edit it, change the title, the authors and set proper in-",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "clude(s) for all the chapters.",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H2",
+      "text": "1.2.2",
+      "page": 6,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Chapters",
+      "page": 6,
+      "language": "nl"
+    },
+    {
+      "level": "H3",
+      "text": "Each chapter should be included in the main document as a separate file. You can",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "choose any name for the file, but we suggest adding a suffix to the name of the",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "main file. For our example we use the file name",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "document_chapter1.tex",
+      "page": 6,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "First, copy",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "template_chapter.tex",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "document_chapter1.tex",
+      "page": 6,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "and add the line",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "\\include{document_chapter1}",
+      "page": 6,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "in the",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "document.tex",
+      "page": 6,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": ", then edit",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "document_chapter1.tex",
+      "page": 6,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": ", change the",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "chapter title and edit the body of the chapter appropriately.",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H2",
+      "text": "1.2.3",
+      "page": 6,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Spell-checking",
+      "page": 6,
+      "language": "de"
+    },
+    {
+      "level": "H3",
+      "text": "use a spell-checker, please!",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "You may also want to check grammar, style and so on. Actually you should",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "do it (if you have enough spare time). But you",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "must",
+      "page": 6,
+      "language": "et"
+    },
+    {
+      "level": "H3",
+      "text": "check spelling!",
+      "page": 6,
+      "language": "sv"
+    },
+    {
+      "level": "H3",
+      "text": "You can use the",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "ispell",
+      "page": 6,
+      "language": "it"
+    },
+    {
+      "level": "H3",
+      "text": "package for this, from within",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "emacs",
+      "page": 6,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": ", or from the",
+      "page": 6,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "command line:",
+      "page": 6,
+      "language": "fr"
+    },
+    {
+      "level": "H3",
+      "text": "ispell -t document_chapter1.tex",
+      "page": 6,
+      "language": "nl"
+    },
+    {
+      "level": "H3",
+      "text": "1.3. L",
+      "page": 7,
+      "language": "fr"
+    },
+    {
+      "level": "H3",
+      "text": "TEX AND PDFL",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "TEX CAPABILITIES",
+      "page": 7,
+      "language": "vi"
+    },
+    {
+      "level": "H1",
+      "text": "TEX and pdfL",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H1",
+      "text": "TEX capabilities",
+      "page": 7,
+      "language": "ro"
+    },
+    {
+      "level": "H2",
+      "text": "1.3.1",
+      "page": 7,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 7,
+      "language": "af"
+    },
+    {
+      "level": "H3",
+      "text": "First you edit your source",
+      "page": 7,
+      "language": "fr"
+    },
+    {
+      "level": "H3",
+      "text": ".tex",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "file. In L",
+      "page": 7,
+      "language": "it"
+    },
+    {
+      "level": "H3",
+      "text": "TEX you compile it using the",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "latex",
+      "page": 7,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "command to a",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".dvi",
+      "page": 7,
+      "language": "sl"
+    },
+    {
+      "level": "H3",
+      "text": "file (which stands for device-independent). The",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".dvi",
+      "page": 7,
+      "language": "sl"
+    },
+    {
+      "level": "H3",
+      "text": "file",
+      "page": 7,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "can be converted to any device-dependent format you like using an appropriate",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "driver, for example",
+      "page": 7,
+      "language": "da"
+    },
+    {
+      "level": "H3",
+      "text": "dvips",
+      "page": 7,
+      "language": "lt"
+    },
+    {
+      "level": "H3",
+      "text": "When producing",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".pdf",
+      "page": 7,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": "files you should use",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "pdflatex",
+      "page": 7,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": ", which produces di-",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "rectly",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".pdf",
+      "page": 7,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": "files out of",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".tex",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "sources. Note that in the",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".tex",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "file you may need",
+      "page": 7,
+      "language": "so"
+    },
+    {
+      "level": "H3",
+      "text": "to use some PDF specific packages.",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "For viewing",
+      "page": 7,
+      "language": "af"
+    },
+    {
+      "level": "H3",
+      "text": ".tex",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "files use your favourite text editor, for viewing",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".dvi",
+      "page": 7,
+      "language": "sl"
+    },
+    {
+      "level": "H3",
+      "text": "files",
+      "page": 7,
+      "language": "fr"
+    },
+    {
+      "level": "H3",
+      "text": "under X Window System use",
+      "page": 7,
+      "language": "de"
+    },
+    {
+      "level": "H3",
+      "text": "xdvi",
+      "page": 7,
+      "language": "sl"
+    },
+    {
+      "level": "H3",
+      "text": "command,",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "files can be viewed with",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "ghostview",
+      "page": 7,
+      "language": "af"
+    },
+    {
+      "level": "H3",
+      "text": ") and",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ".pdf",
+      "page": 7,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": "files with",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "acroread",
+      "page": 7,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "xpdf",
+      "page": 7,
+      "language": "so"
+    },
+    {
+      "level": "H2",
+      "text": "1.3.2",
+      "page": 7,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "A lot of examples can be found in this document.",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "You should also print",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "doc/latex/general/latex2e.dvi",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "doc/latex/general/lshort2e.dvi",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "from your",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "tetex",
+      "page": 7,
+      "language": "sq"
+    },
+    {
+      "level": "H3",
+      "text": "distribution (usually in",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "/usr/share/texmf",
+      "page": 7,
+      "language": "sq"
+    },
+    {
+      "level": "H3",
+      "text": "/usr/lib/texmf/texmf",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H2",
+      "text": "1.3.3",
+      "page": 7,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "pdfL",
+      "page": 7,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": "Consult",
+      "page": 7,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "doc/pdftex/manual.pdf",
+      "page": 7,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "from your",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "tetex",
+      "page": 7,
+      "language": "sq"
+    },
+    {
+      "level": "H3",
+      "text": "distribution for more",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "details. Very useful informations can be found in the",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "hyperref",
+      "page": 7,
+      "language": "cy"
+    },
+    {
+      "level": "H3",
+      "text": "graphics",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "package manuals:",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "doc/latex/hyperref/manual.pdf",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "doc/latex/graphics/grfguide.dvi",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H2",
+      "text": "1.3.4",
+      "page": 7,
+      "language": "unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Examples",
+      "page": 7,
+      "language": "ca"
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 7,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "MIMUW",
+      "page": 7,
+      "language": "sw"
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 1. TEMPLATE",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Hyperlinks",
+      "page": 8,
+      "language": "af"
+    },
+    {
+      "level": "H3",
+      "text": "This is a target.",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "And this is a link.",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Dashes, etc.",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "There are three kinds of horizontal dash:",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "- (use inside words; for example “home-page”, “X-rated”)",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "– (use this one between numbers; for example “pages 2–22”)",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "— (use this one as a sentence separator — like here)",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "National characters",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "ó, é, í, ...",
+      "page": 8,
+      "language": "hu"
+    },
+    {
+      "level": "H3",
+      "text": "è, à, ì, .. .",
+      "page": 8,
+      "language": "it"
+    },
+    {
+      "level": "H3",
+      "text": "ô, ê, .. .",
+      "page": 8,
+      "language": "vi"
+    },
+    {
+      "level": "H3",
+      "text": "õ, ñ, . ..",
+      "page": 8,
+      "language": "et"
+    },
+    {
+      "level": "H3",
+      "text": "ö, ë, .. .",
+      "page": 8,
+      "language": "sq"
+    },
+    {
+      "level": "H3",
+      "text": "̨a,  ̨e",
+      "page": 8,
+      "language": "sw"
+    },
+    {
+      "level": "H3",
+      "text": "ł, ø, ß",
+      "page": 8,
+      "language": "pl"
+    },
+    {
+      "level": "H3",
+      "text": "There are other ways to do this, see the documentation for",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "inputenc",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "pack-",
+      "page": 8,
+      "language": "pl"
+    },
+    {
+      "level": "H3",
+      "text": "age.",
+      "page": 8,
+      "language": "da"
+    },
+    {
+      "level": "H3",
+      "text": "Reserved characters",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Some characters have some special meaning, thus cannot be entered in the usual",
+      "page": 8,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "way.",
+      "page": 8,
+      "language": "so"
+    },
+    {
+      "level": "H3",
+      "text": "$ & % # _ { }",
+      "page": 8,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "1.3. L",
+      "page": 9,
+      "language": "fr"
+    },
+    {
+      "level": "H3",
+      "text": "TEX AND PDFL",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "TEX CAPABILITIES",
+      "page": 9,
+      "language": "vi"
+    },
+    {
+      "level": "H3",
+      "text": "Math",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": ", . ..",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ", . ..",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ", ...",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ", ...",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ", ...",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ", . ..",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "2 + 2",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": ", ...",
+      "page": 9,
+      "language": "unknown"
+    },
+    {
+      "level": "H3",
+      "text": "For more examples and symbols see chapter 3 of",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "lshort2e.dvi",
+      "page": 9,
+      "language": "sq"
+    },
+    {
+      "level": "H3",
+      "text": "Fonts",
+      "page": 9,
+      "language": "fr"
+    },
+    {
+      "level": "H3",
+      "text": "Roman",
+      "page": 9,
+      "language": "ro"
+    },
+    {
+      "level": "H3",
+      "text": "Emphasis",
+      "page": 9,
+      "language": "pt"
+    },
+    {
+      "level": "H3",
+      "text": "Medium weight — the default",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Boldface",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Upright",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "Slanted",
+      "page": 9,
+      "language": "da"
+    },
+    {
+      "level": "H3",
+      "text": "Sans serif",
+      "page": 9,
+      "language": "sv"
+    },
+    {
+      "level": "H3",
+      "text": "Typewriter",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "and sizes:",
+      "page": 9,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "normalsize",
+      "page": 9,
+      "language": "lv"
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 1. TEMPLATE",
+      "page": 10,
+      "language": "en"
+    },
+    {
+      "level": "H2",
+      "text": "large",
+      "page": 10,
+      "language": "es"
+    },
+    {
+      "level": "H1",
+      "text": "Large",
+      "page": 10,
+      "language": "es"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Sample PDF",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Sample PDF",
+      "page": 1,
+      "language": "fr"
+    },
+    {
+      "level": "H2",
+      "text": "Created for testing",
+      "page": 1,
+      "language": "en"
+    },
+    {
+      "level": "H2",
+      "text": "PDFObject",
+      "page": 1,
+      "language": "hr"
+    },
+    {
+      "level": "H3",
+      "text": "This PDF is three pages long. Three long pages. Or three short pages if",
+      "page": 1,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "you’re optimistic. Is it the same as saying “three long minutes”, knowing",
+      "page": 1,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "that all minutes are the same duration, and one cannot possibly be longer",
+      "page": 1,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "than the other? If these pages are all the same size, can one possibly be",
+      "page": 1,
+      "language": "en"
+    },
+    {
+      "level": "H3",
+      "text": "longer than the other?",
+      "page": 1,
+      "language": "en"
+    }
+  ]
+}
