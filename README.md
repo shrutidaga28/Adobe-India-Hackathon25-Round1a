@@ -56,6 +56,7 @@ docker build -t pdf-outline-extractor .
 ```bash
 docker run --rm -v "${PWD}/input:/app/input" -v "${PWD}/output:/app/output" --network none pdf-outline-extractor
 ```
+
 -All PDF files in the input folder will be processed.
 -For each PDF, a corresponding .json file will be saved in the output folder.
 
