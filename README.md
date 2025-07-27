@@ -1,4 +1,4 @@
-Round 1A – PDF Outline Extraction
+# Round 1A – PDF Outline Extraction
 
 Overview-
 This solution is built for Adobe Hackathon 2025 Round 1A. The task is to extract structured document outlines from PDFs — including title, hierarchical headings (H1, H2, H3), and associated page numbers — and return the result in a well-formatted JSON.
